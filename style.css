@@ -293,3 +293,7 @@ footer {
     font-size:18px;
     padding:16px 40px;
 }
+.logo img{
+    height:70px;
+    width:auto;
+}
